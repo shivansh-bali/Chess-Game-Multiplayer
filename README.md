@@ -1,4 +1,4 @@
-# Multiplayer-Chess
+# Chess-Game-Multiplayer
 
 A dynamic and interactive Multiplayer Chess game built with React, SASS, Node.js, and Socket.IO. This application offers a real-time chess experience with an integrated chat feature, allowing players to communicate with each other during the game.
 
@@ -21,4 +21,4 @@ A dynamic and interactive Multiplayer Chess game built with React, SASS, Node.js
 - Create a .env file and set the variable `REACT_APP_BASE_URL ={URL_OF_THE_BACKEND}` default should be http://localhost:4000/
 - `npm start`
 
-
+--
